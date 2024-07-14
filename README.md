@@ -14,7 +14,7 @@ It is a challenge to improve coding skills by building realistic projects.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](http://127.0.0.1:5500/index.html)
+- Live Site URL: [News Hompage](http://127.0.0.1:5500/index.html)
 
 ## My process
 
@@ -26,7 +26,7 @@ It is a challenge to improve coding skills by building realistic projects.
 
 ### What I learned
 
-#### i improved imsersly on:
+#### i improved immensersly on:
 -the use of structured html semantics
 -different screen responsiveness
 -nav menu hide and display
@@ -65,11 +65,11 @@ See some code snippets below:
 
 ### Useful resources
 
-- [resource](https://www.frontendmentor.io/home)) - This helped me for developing my front-end skills. I really liked this pattern and will use it going forward.
+- [Front-End Mentor](https://www.frontendmentor.io/home) - This helped me for developing my front-end skills. I really liked this pattern and will use it going forward.
 
 ## Author
 
-- Twitter - [Adesina Maria]([https://www.twitter.com](https://x.com/Omolomar?t=hhudE)/@omolomar)
+- Twitter - [Adesina Maria](https://x.com/Omolomar?t=hhudE)
 - linkedIn - [Adesina MAria](https://www.linkedin.com/in/maria-adesina-04291223a)
 
 ## Acknowledgments
