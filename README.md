@@ -1,5 +1,5 @@
 
-# Frontend Mentor - News homepage solution
+# News homepage
 
 It is a challenge to improve coding skills by building realistic projects. 
 
